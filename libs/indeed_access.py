@@ -1,0 +1,2 @@
+class IndeedAccess:
+    pass
